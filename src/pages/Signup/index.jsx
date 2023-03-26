@@ -5,7 +5,7 @@ import styles from "./styles.module.css";
 function Signup() {
 	const googleAuth = () => {
 		window.open(
-			`http://localhost:8080/auth/google/callback`,
+			`https://docaidbackend.onrender.com/auth/google/callback`,
 			"_self"
 		);
 	};
