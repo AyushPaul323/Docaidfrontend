@@ -68,7 +68,7 @@ const Member = (props) => {
                             required
                         />
                         
-                        <div className='bu'><Button type="submit" colorScheme='red'>
+                        <div className='bu'><Button type="submit" colorScheme='red' className="a11">
                             Sign In</Button></div>
                     </form>
                 </section>
