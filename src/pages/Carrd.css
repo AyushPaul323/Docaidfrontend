@@ -36,3 +36,10 @@
     .a11:active{
         transform: scale(0.96);
     }
+
+
+.c1{
+     background-color: #ffffff;
+background-image: url("https://www.transparenttextures.com/patterns/diagmonds-light.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
