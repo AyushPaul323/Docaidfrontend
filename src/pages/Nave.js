@@ -75,7 +75,7 @@ export default function Nave(props) {
         </a>
       </div>
       <div className='log1222'>
-          <button onClick={logout} >
+          <button onClick={logout} className="a11">
                 Log Out
             </button>
           </div>
