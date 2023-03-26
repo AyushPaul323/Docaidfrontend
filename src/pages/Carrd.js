@@ -14,11 +14,7 @@ function Carrd() {
   }
   function cf3() {
     window.open('https://hospital-93273-default-rtdb.firebaseio.com/userDataRecords/-NRM_vW2XAsFkfBlOcjB','_blank')
-  }
-  function cf4() {
-    window.open('https://docs.google.com/spreadsheets/d/1rl2oWkFSdP_LXyjP8phhYAWjjdZcbOwxu8v4dZjqEk0/edit?usp=sharing','_blank')
-  }
-  
+  }  
    return (
     <div>
     <div className='img'>
@@ -59,8 +55,6 @@ function Carrd() {
   <Button variant="primary" onClick={cf3} className="a11">Click</Button>
 </Card.Body>
 </Card></div>
-<div className='inn'>
-</div>
 </div>
   );
 }
