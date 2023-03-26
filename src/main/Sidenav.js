@@ -25,7 +25,7 @@ import {
 import { useNavigate } from 'react-router-dom';
 export default function Sidenav(props) {
   const logout = () => {
-    window.open(`http://localhost:8080/auth/logout`, "_self");
+    window.open(`https://docaidbackend.onrender.com/auth/logout`, "_self");
 };
 const Navigate = useNavigate();
 
