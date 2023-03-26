@@ -145,12 +145,10 @@ h1{
    background: #00bfff;
    transition: all 0.2s ease;
    border-color: rgb(40, 43, 42);
+    padding-top: 2vh !important;
   }
 
     .a11:active{
         transform: scale(0.96);
     }
 
-.bu{
-    padding-top: 2vh;
-}
