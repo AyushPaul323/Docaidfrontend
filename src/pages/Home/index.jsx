@@ -3,7 +3,7 @@ import Sidenav from "../../main/Sidenav"
 function Home(userDetails) {
 	const user = userDetails.user;
 	const logout = () => {
-		window.open(`http://localhost:8080/auth/logout`, "_self");
+		window.open(`https://docaidbackend.onrender.com/auth/logout`, "_self");
 	};
 	return (
 		<div>
