@@ -1,5 +1,4 @@
 import React from 'react';
-import './Navv.css';
 import NavDropdown from 'react-bootstrap/NavDropdown';
 import {
   MDBContainer,
