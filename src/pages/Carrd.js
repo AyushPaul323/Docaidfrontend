@@ -60,18 +60,6 @@ function Carrd() {
 </Card.Body>
 </Card></div>
 <div className='inn'>
-<Card className='c1 c11'>
-  
-<Card.Img variant="top" src="https://media.self.com/photos/57d8c4084b76f0f832a0f1dd/master/pass/bring-back-our-girls-heatmap-nigeria.jpg" />
-<Card.Body>
-  <Card.Title>Heat Map</Card.Title>
-  <Card.Text>
-    This is a heat map which allow us to see the areas where less cure is present and where accidents happen mostly.
-  </Card.Text>
-  <Button variant="primary" className="a11">Click</Button>
-</Card.Body>
-</Card></div>
-
 </div>
 </div>
   );
