@@ -30,7 +30,7 @@ function Carrd() {
       <Card.Text>
         This a database where user or customer query will get stored after submitting the contact us form.
       </Card.Text>
-      <Button variant="primary" onClick={cf1}>Click</Button>
+      <Button variant="primary" onClick={cf1} className="a11">Click</Button>
     </Card.Body>
   </Card></div>
   <div className='inn'>
@@ -41,7 +41,7 @@ function Carrd() {
       <Card.Text>
         This a database where doctors can able to see information about their patients after booking appointment.
       </Card.Text>
-      <Button variant="primary" onClick={cf2}>Click</Button>
+      <Button variant="primary" onClick={cf2} className="a11">Click</Button>
     </Card.Body>
   </Card></div>
 
@@ -56,7 +56,7 @@ function Carrd() {
   <Card.Text>
     This a database where every hospital can see their patients record who have booked bed.
   </Card.Text>
-  <Button variant="primary" onClick={cf3}>Click</Button>
+  <Button variant="primary" onClick={cf3} className="a11">Click</Button>
 </Card.Body>
 </Card></div>
 <div className='inn'>
@@ -68,7 +68,7 @@ function Carrd() {
   <Card.Text>
     This is a heat map which allow us to see the areas where less cure is present and where accidents happen mostly.
   </Card.Text>
-  <Button variant="primary">Click</Button>
+  <Button variant="primary" className="a11">Click</Button>
 </Card.Body>
 </Card></div>
 
