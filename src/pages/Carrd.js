@@ -56,6 +56,7 @@ function Carrd() {
 </Card.Body>
 </Card></div>
 </div>
+</div>
   );
 }
 
